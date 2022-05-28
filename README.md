@@ -1,3 +1,11 @@
+# Indotuccion 
+
+Proyecto Nodejs en consola, 
+
+Para instalar dependencias ejecutar el siguiente comando
+
+npm install
+
 # Ejecute el comando node app --help para ver las opciones del proyecto
 
 Opciones:
